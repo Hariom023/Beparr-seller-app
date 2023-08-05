@@ -5,7 +5,7 @@ import {View} from 'react-native';
 
 // import Otp from './src/container/Auth/Otp';
 // import signup from './src/container/Auth/signup';
-import Imagepicker from './src/components/Imagepicker';
+
 import Router from './src/router/Router';
 
 const App = () => {
